@@ -4,3 +4,6 @@
 [submodule "Assets/Packages/ModelDrivenGUI"]
 	path = Assets/Packages/ModelDrivenGUI
 	url = https://github.com/nobnak/ModelDrivenGUI.git
+[submodule "Assets/Packages/WeSync-Examples"]
+	path = Assets/Packages/WeSync-Examples
+	url = https://github.com/nobnak/WeSync-Examples.git
