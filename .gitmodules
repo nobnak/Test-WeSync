@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/WeSync"]
+	path = Assets/Packages/WeSync
+	url = https://github.com/nobnak/WeSync.git
