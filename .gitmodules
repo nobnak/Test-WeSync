@@ -7,3 +7,6 @@
 [submodule "Assets/Packages/WeSync-Examples"]
 	path = Assets/Packages/WeSync-Examples
 	url = https://github.com/nobnak/WeSync-Examples.git
+[submodule "Assets/Packages/Gist"]
+	path = Assets/Packages/Gist
+	url = https://github.com/nobnak/Gist.git
