@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using System;
 using System.Globalization;
-using WeSyncSys.Extensions.TimeExt;
+using WeSyncSys.Extensions;
 
 public class TestTimeFormat {
     [Test]
